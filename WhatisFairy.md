@@ -1,4 +1,4 @@
-# JuntionXseoul2019
+# JunctionXseoul2019
 ###  Fairy(New meeting for another me) 
 
 ![](img/슬라이드1.JPG)

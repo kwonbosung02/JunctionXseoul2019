@@ -1,4 +1,4 @@
-# JuntionXseoul2019
+# JunctionXseoul2019
 ###  Fairy(New meeting for another me) 
 
 1.  Starts social discovering with the video(video-> frame -> image)
