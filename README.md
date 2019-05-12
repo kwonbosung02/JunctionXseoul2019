@@ -59,20 +59,22 @@
    + Viral Marketing Cost
     + Server
 #### Stp
-    1. Age of Zepeto Users
+   1. Age of Zepeto Users
       + Teenage : male(13.3%), female(35,3%)
       + 20s : male(5.6%), female(10.2%)
       + 30s : male(1.9%), female(6.3%)
       + 40s : male(6.8%), female(8.1%)
       + 50s and above : male(2.5%), female(9.5%)
       + -> Teenage female zepeto users are highest.
-    2. Gender of users
+   2. Gender of users
       + male(30.2%), female(69.8)
-    3. Targeting
+   3. Targeting
       + Teenage female users
       + Currently, the girls aged 13-18 are interested in appearance management, and in their spare time, they usually watch the media. Among digital media, messenger and social media are mainly used.
       + Digital media ads are based on video, portal, social media, and messaging. 
-    4. Positioning
-     + Fairy has high entertainingness, low Entry barriers.
-     + Azar has low Entry barriers, but it has high violence, sensationalism.
-     + Teender has high Entry barriers because of age
+   4. Positioning
+      + Fairy has high entertainingness, low Entry barriers.
+      + Azar has low Entry barriers, but it has high violence, sensationalism.
+      + Teender has high Entry barriers because of age
+#### Info
+Read this repo with another two zepeto repos
